@@ -13,7 +13,7 @@ The data set is based on 2014 ACS 1-year estimates: [https://factfinder.census.g
 
 ![4-scatter](Images/4-scatter.jpg)
 
-[x] Created a scatter plot between two of the data variables such as `Healthcare vs. Poverty`
-[x] Created a scatter plot that represents each state with circle elements 
-[x] Included state abbreviations in the circles
-[x] Created and situated axes and labels to the left and bottom of the chart
+[X] Created a scatter plot between two of the data variables such as `Healthcare vs. Poverty`
+[X] Created a scatter plot that represents each state with circle elements 
+[X] Included state abbreviations in the circles
+[X] Created and situated axes and labels to the left and bottom of the chart
